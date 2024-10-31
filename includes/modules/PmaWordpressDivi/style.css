@@ -1,0 +1,9 @@
+.et-fb-icon svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+    fill: inherit;
+}
+.simp_pathomation_slide .et-fb-icon.et-fb-icon--svg {
+    margin: -3px !important;
+}

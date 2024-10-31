@@ -1,0 +1,16 @@
+{
+  "builder.css": "/styles/backend-style.min.css",
+  "builder.js": "/scripts/builder-bundle.min.js",
+  "frontend.css": "/styles/backend-style.min.css",
+  "frontend.js": "/scripts/frontend-bundle.min.js",
+  "media\\1e59d2330b4c6deb84b340635ed36249.ttf": "/media/1e59d2330b4c6deb84b340635ed36249.ttf",
+  "media\\20fd1704ea223900efa9fd4e869efb08.woff2": "/media/20fd1704ea223900efa9fd4e869efb08.woff2",
+  "media\\8b43027f47b20503057dfbbaa9401fef.eot": "/media/8b43027f47b20503057dfbbaa9401fef.eot",
+  "media\\c1e38fd9e0e74ba58f7a2b77ef29fdd3.svg": "/media/c1e38fd9e0e74ba58f7a2b77ef29fdd3.svg",
+  "media\\f691f37e57f04c152e2315ab7dbad881.woff": "/media/f691f37e57f04c152e2315ab7dbad881.woff",
+  "media\\fontawesome-webfont.eot": "/media/fontawesome-webfont.eot",
+  "media\\fontawesome-webfont.svg?v=4.7.0": "/media/fontawesome-webfont.svg",
+  "media\\fontawesome-webfont.ttf?v=4.7.0": "/media/fontawesome-webfont.ttf",
+  "media\\fontawesome-webfont.woff2?v=4.7.0": "/media/fontawesome-webfont.woff2",
+  "media\\fontawesome-webfont.woff?v=4.7.0": "/media/fontawesome-webfont.woff"
+}

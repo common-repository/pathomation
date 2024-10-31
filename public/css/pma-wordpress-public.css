@@ -1,0 +1,27 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+ .pmaslide.viewer {
+    margin: 0 auto;
+}
+
+#rotationText {
+    width: 40px;
+	padding: unset;
+	font-size: 0.8em;
+}
+
+.ol-control button {
+	background: rgba(0,60,136,.5) !important;
+	min-height: initial;
+}
+
+.ol-control button:hover {
+	background: rgba(0,60,136,.7) !important;
+}
+
+div.ol-rotation {
+	height: 46px;
+}
